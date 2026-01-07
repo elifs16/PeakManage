@@ -1,0 +1,596 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16\\maasraporform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|solutionrelative:takipsistemi16\\maasraporform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|c:\\users\\sahika_elif_yildiran\\desktop\\c# projeleri\\takipsistemi16\\takipsistemi16\\maasraporform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|solutionrelative:takipsistemi16\\maasraporform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787757F5-03B0-497E-B2B8-461F4F54A4DE}|takipSistemi16.Entity\\takipSistemi16.Entity.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787757F5-03B0-497E-B2B8-461F4F54A4DE}|takipSistemi16.Entity\\takipSistemi16.Entity.csproj|solutionrelative:takipsistemi16.entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|c:\\users\\sahika_elif_yildiran\\desktop\\c# projeleri\\takipsistemi16\\takipsistemi16\\performansform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|solutionrelative:takipsistemi16\\performansform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16\\performansform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|solutionrelative:takipsistemi16\\performansform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|c:\\users\\sahika_elif_yildiran\\desktop\\c# projeleri\\takipsistemi16\\takipsistemi16\\izinonayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|solutionrelative:takipsistemi16\\izinonayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16\\izinonayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|solutionrelative:takipsistemi16\\izinonayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|c:\\users\\sahika_elif_yildiran\\desktop\\c# projeleri\\takipsistemi16\\takipsistemi16\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|solutionrelative:takipsistemi16\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16\\ikform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|solutionrelative:takipsistemi16\\ikform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|solutionrelative:takipsistemi16\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|solutionrelative:takipsistemi16\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|c:\\users\\sahika_elif_yildiran\\desktop\\c# projeleri\\takipsistemi16\\takipsistemi16\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|solutionrelative:takipsistemi16\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|c:\\users\\sahika_elif_yildiran\\desktop\\c# projeleri\\takipsistemi16\\takipsistemi16\\ikform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|solutionrelative:takipsistemi16\\ikform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|c:\\users\\sahika_elif_yildiran\\desktop\\c# projeleri\\takipsistemi16\\takipsistemi16\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|solutionrelative:takipsistemi16\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|c:\\users\\sahika_elif_yildiran\\desktop\\c# projeleri\\takipsistemi16\\takipsistemi16\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AB70D6-90EA-452A-A61E-9B625BD0431B}|takipSistemi16\\takipSistemi16.csproj|solutionrelative:takipsistemi16\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9DCFD9-700A-4DD1-A655-4ABBCB5EED22}|takipSistemi16.BLL\\takipSistemi16.BLL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.bll\\performansmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9DCFD9-700A-4DD1-A655-4ABBCB5EED22}|takipSistemi16.BLL\\takipSistemi16.BLL.csproj|solutionrelative:takipsistemi16.bll\\performansmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.dal\\performansrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|solutionrelative:takipsistemi16.dal\\performansrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787757F5-03B0-497E-B2B8-461F4F54A4DE}|takipSistemi16.Entity\\takipSistemi16.Entity.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.entity\\performans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787757F5-03B0-497E-B2B8-461F4F54A4DE}|takipSistemi16.Entity\\takipSistemi16.Entity.csproj|solutionrelative:takipsistemi16.entity\\performans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787757F5-03B0-497E-B2B8-461F4F54A4DE}|takipSistemi16.Entity\\takipSistemi16.Entity.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.entity\\adminemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787757F5-03B0-497E-B2B8-461F4F54A4DE}|takipSistemi16.Entity\\takipSistemi16.Entity.csproj|solutionrelative:takipsistemi16.entity\\adminemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9DCFD9-700A-4DD1-A655-4ABBCB5EED22}|takipSistemi16.BLL\\takipSistemi16.BLL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.bll\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9DCFD9-700A-4DD1-A655-4ABBCB5EED22}|takipSistemi16.BLL\\takipSistemi16.BLL.csproj|solutionrelative:takipsistemi16.bll\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.dal\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|solutionrelative:takipsistemi16.dal\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9DCFD9-700A-4DD1-A655-4ABBCB5EED22}|takipSistemi16.BLL\\takipSistemi16.BLL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.bll\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9DCFD9-700A-4DD1-A655-4ABBCB5EED22}|takipSistemi16.BLL\\takipSistemi16.BLL.csproj|solutionrelative:takipsistemi16.bll\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.dal\\concrete\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|solutionrelative:takipsistemi16.dal\\concrete\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.dal\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|solutionrelative:takipsistemi16.dal\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.dal\\concrete\\izinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|solutionrelative:takipsistemi16.dal\\concrete\\izinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.dal\\abstract\\iizinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|solutionrelative:takipsistemi16.dal\\abstract\\iizinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9DCFD9-700A-4DD1-A655-4ABBCB5EED22}|takipSistemi16.BLL\\takipSistemi16.BLL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.bll\\concrete\\izinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9DCFD9-700A-4DD1-A655-4ABBCB5EED22}|takipSistemi16.BLL\\takipSistemi16.BLL.csproj|solutionrelative:takipsistemi16.bll\\concrete\\izinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.dal\\abstract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|solutionrelative:takipsistemi16.dal\\abstract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787757F5-03B0-497E-B2B8-461F4F54A4DE}|takipSistemi16.Entity\\takipSistemi16.Entity.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787757F5-03B0-497E-B2B8-461F4F54A4DE}|takipSistemi16.Entity\\takipSistemi16.Entity.csproj|solutionrelative:takipsistemi16.entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787757F5-03B0-497E-B2B8-461F4F54A4DE}|takipSistemi16.Entity\\takipSistemi16.Entity.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787757F5-03B0-497E-B2B8-461F4F54A4DE}|takipSistemi16.Entity\\takipSistemi16.Entity.csproj|solutionrelative:takipsistemi16.entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787757F5-03B0-497E-B2B8-461F4F54A4DE}|takipSistemi16.Entity\\takipSistemi16.Entity.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.entity\\izin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787757F5-03B0-497E-B2B8-461F4F54A4DE}|takipSistemi16.Entity\\takipSistemi16.Entity.csproj|solutionrelative:takipsistemi16.entity\\izin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9DCFD9-700A-4DD1-A655-4ABBCB5EED22}|takipSistemi16.BLL\\takipSistemi16.BLL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.bll\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9DCFD9-700A-4DD1-A655-4ABBCB5EED22}|takipSistemi16.BLL\\takipSistemi16.BLL.csproj|solutionrelative:takipsistemi16.bll\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9DCFD9-700A-4DD1-A655-4ABBCB5EED22}|takipSistemi16.BLL\\takipSistemi16.BLL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.bll\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9DCFD9-700A-4DD1-A655-4ABBCB5EED22}|takipSistemi16.BLL\\takipSistemi16.BLL.csproj|solutionrelative:takipsistemi16.bll\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9DCFD9-700A-4DD1-A655-4ABBCB5EED22}|takipSistemi16.BLL\\takipSistemi16.BLL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9DCFD9-700A-4DD1-A655-4ABBCB5EED22}|takipSistemi16.BLL\\takipSistemi16.BLL.csproj|solutionrelative:takipsistemi16.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipsistemi16.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D6AC87-22C5-49EE-A3B1-D7130F9F67A3}|takipSistemi16.DAL\\takipSistemi16.DAL.csproj|solutionrelative:takipsistemi16.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\UserForm.cs",
+              "RelativeDocumentMoniker": "takipSistemi16\\UserForm.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\UserForm.cs [Design]",
+              "RelativeToolTip": "takipSistemi16\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:33:02.982Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaasRaporForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\MaasRaporForm.cs",
+              "RelativeDocumentMoniker": "takipSistemi16\\MaasRaporForm.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\MaasRaporForm.cs [Design]*",
+              "RelativeToolTip": "takipSistemi16\\MaasRaporForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:15:24.325Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\AdminForm.cs",
+              "RelativeDocumentMoniker": "takipSistemi16\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\AdminForm.cs [Design]",
+              "RelativeToolTip": "takipSistemi16\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:50:55.031Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IzinOnayForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\IzinOnayForm.cs",
+              "RelativeDocumentMoniker": "takipSistemi16\\IzinOnayForm.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\IzinOnayForm.cs [Design]",
+              "RelativeToolTip": "takipSistemi16\\IzinOnayForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:34:26.547Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PerformansForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\PerformansForm.cs",
+              "RelativeDocumentMoniker": "takipSistemi16\\PerformansForm.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\PerformansForm.cs [Design]",
+              "RelativeToolTip": "takipSistemi16\\PerformansForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T16:47:29.508Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IKForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\IKForm.cs",
+              "RelativeDocumentMoniker": "takipSistemi16\\IKForm.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\IKForm.cs [Design]",
+              "RelativeToolTip": "takipSistemi16\\IKForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T16:07:34.958Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\LoginForm.cs",
+              "RelativeDocumentMoniker": "takipSistemi16\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\LoginForm.cs [Design]",
+              "RelativeToolTip": "takipSistemi16\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T12:57:23.945Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaasRaporForm.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\MaasRaporForm.cs",
+              "RelativeDocumentMoniker": "takipSistemi16\\MaasRaporForm.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\MaasRaporForm.cs*",
+              "RelativeToolTip": "takipSistemi16\\MaasRaporForm.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:18:31.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\UserForm.cs",
+              "RelativeDocumentMoniker": "takipSistemi16\\UserForm.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\UserForm.cs",
+              "RelativeToolTip": "takipSistemi16\\UserForm.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA9wGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T14:40:13.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IzinOnayForm.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\IzinOnayForm.cs",
+              "RelativeDocumentMoniker": "takipSistemi16\\IzinOnayForm.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\IzinOnayForm.cs",
+              "RelativeToolTip": "takipSistemi16\\IzinOnayForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:36:07.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\LoginForm.cs",
+              "RelativeDocumentMoniker": "takipSistemi16\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\LoginForm.cs",
+              "RelativeToolTip": "takipSistemi16\\LoginForm.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAjwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:24:10.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.Entity\\User.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.Entity\\User.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.Entity\\User.cs",
+              "RelativeToolTip": "takipSistemi16.Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:06:24.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PerformansForm.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\PerformansForm.cs",
+              "RelativeDocumentMoniker": "takipSistemi16\\PerformansForm.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\PerformansForm.cs",
+              "RelativeToolTip": "takipSistemi16\\PerformansForm.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwEYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T16:50:06.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.Entity\\AdminEmployeeDto.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.Entity\\AdminEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.Entity\\AdminEmployeeDto.cs",
+              "RelativeToolTip": "takipSistemi16.Entity\\AdminEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:01:46.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Performans.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.Entity\\Performans.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.Entity\\Performans.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.Entity\\Performans.cs",
+              "RelativeToolTip": "takipSistemi16.Entity\\Performans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:12:27.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\AdminForm.cs",
+              "RelativeDocumentMoniker": "takipSistemi16\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\AdminForm.cs",
+              "RelativeToolTip": "takipSistemi16\\AdminForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:33:06.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IKForm.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\IKForm.cs",
+              "RelativeDocumentMoniker": "takipSistemi16\\IKForm.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16\\IKForm.cs",
+              "RelativeToolTip": "takipSistemi16\\IKForm.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwJkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T16:16:47.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PerformansManager.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.BLL\\PerformansManager.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.BLL\\PerformansManager.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.BLL\\PerformansManager.cs",
+              "RelativeToolTip": "takipSistemi16.BLL\\PerformansManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T16:41:48.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PerformansRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\PerformansRepository.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.DAL\\PerformansRepository.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\PerformansRepository.cs",
+              "RelativeToolTip": "takipSistemi16.DAL\\PerformansRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T16:42:55.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminManager.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.BLL\\AdminManager.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.BLL\\AdminManager.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.BLL\\AdminManager.cs",
+              "RelativeToolTip": "takipSistemi16.BLL\\AdminManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:00:45.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.BLL\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.BLL\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.BLL\\EmployeeManager.cs",
+              "RelativeToolTip": "takipSistemi16.BLL\\EmployeeManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:26:12.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.DAL\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\EmployeeRepository.cs",
+              "RelativeToolTip": "takipSistemi16.DAL\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:24:01.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IzinManager.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.BLL\\Concrete\\IzinManager.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.BLL\\Concrete\\IzinManager.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.BLL\\Concrete\\IzinManager.cs",
+              "RelativeToolTip": "takipSistemi16.BLL\\Concrete\\IzinManager.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:58:33.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IIzinRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\Abstract\\IIzinRepository.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.DAL\\Abstract\\IIzinRepository.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\Abstract\\IIzinRepository.cs",
+              "RelativeToolTip": "takipSistemi16.DAL\\Abstract\\IIzinRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:55:40Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\DbContext.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.DAL\\DbContext.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\DbContext.cs",
+              "RelativeToolTip": "takipSistemi16.DAL\\DbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:08:04.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IzinRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\Concrete\\IzinRepository.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.DAL\\Concrete\\IzinRepository.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\Concrete\\IzinRepository.cs",
+              "RelativeToolTip": "takipSistemi16.DAL\\Concrete\\IzinRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:56:29.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\Concrete\\UserRepository.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.DAL\\Concrete\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\Concrete\\UserRepository.cs",
+              "RelativeToolTip": "takipSistemi16.DAL\\Concrete\\UserRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:13:23.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\Abstract\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.DAL\\Abstract\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\Abstract\\IUserRepository.cs",
+              "RelativeToolTip": "takipSistemi16.DAL\\Abstract\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:11:20.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.Entity\\Class1.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.Entity\\Class1.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.Entity\\Class1.cs",
+              "RelativeToolTip": "takipSistemi16.Entity\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:02:13.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.Entity\\BaseEntity.cs",
+              "RelativeToolTip": "takipSistemi16.Entity\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:05:39.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Izin.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.Entity\\Izin.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.Entity\\Izin.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.Entity\\Izin.cs",
+              "RelativeToolTip": "takipSistemi16.Entity\\Izin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:54:15.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.BLL\\Concrete\\UserManager.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.BLL\\Concrete\\UserManager.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.BLL\\Concrete\\UserManager.cs",
+              "RelativeToolTip": "takipSistemi16.BLL\\Concrete\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:16:21.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.BLL\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.BLL\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.BLL\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "takipSistemi16.BLL\\Abstract\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:15:06.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.BLL\\Class1.cs",
+              "RelativeToolTip": "takipSistemi16.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:02:55.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "takipSistemi16.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\SAHIKA_ELIF_YILDIRAN\\Desktop\\c# projeleri\\takipSistemi16\\takipSistemi16.DAL\\Class1.cs",
+              "RelativeToolTip": "takipSistemi16.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:02:36.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\bin\Debug\takipSistemi16.BLL.dll
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\bin\Debug\takipSistemi16.BLL.pdb
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\bin\Debug\takipSistemi16.DAL.dll
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\bin\Debug\takipSistemi16.Entity.dll
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\bin\Debug\MySql.Data.dll
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\bin\Debug\System.Memory.dll
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\bin\Debug\takipSistemi16.DAL.pdb
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\bin\Debug\takipSistemi16.Entity.pdb
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\bin\Debug\MySql.Data.xml
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\obj\Debug\takipSistemi16.BLL.csproj.AssemblyReference.cache
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\obj\Debug\takipSistemi16.BLL.csproj.CoreCompileInputs.cache
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\obj\Debug\takipSis.CC3EFBA2.Up2Date
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\obj\Debug\takipSistemi16.BLL.dll
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.BLL\obj\Debug\takipSistemi16.BLL.pdb

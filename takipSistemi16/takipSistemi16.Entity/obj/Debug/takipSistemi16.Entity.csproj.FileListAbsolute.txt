@@ -1,0 +1,6 @@
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.Entity\bin\Debug\takipSistemi16.Entity.dll
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.Entity\bin\Debug\takipSistemi16.Entity.pdb
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.Entity\obj\Debug\takipSistemi16.Entity.csproj.AssemblyReference.cache
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.Entity\obj\Debug\takipSistemi16.Entity.csproj.CoreCompileInputs.cache
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.Entity\obj\Debug\takipSistemi16.Entity.dll
+C:\Users\SAHIKA_ELIF_YILDIRAN\Desktop\c# projeleri\takipSistemi16\takipSistemi16.Entity\obj\Debug\takipSistemi16.Entity.pdb
