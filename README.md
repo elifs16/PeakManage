@@ -85,7 +85,7 @@ Sayfada motivasyon amaçlı her girişte rastgele bir söz gösterilmektedir.
 
 <img width="934" height="583" alt="Login" src="https://github.com/user-attachments/assets/f139c6e0-e3aa-4041-bf89-7e612620c81c" />
 
-### 📝 İzin İşlemleri
+### 📝  İzin İşlemleri
 Kullanıcılar bu ekran üzerinden izin talebinde bulunabilir.  
 Talep edilen izinler tarih aralığı, açıklama ve durum bilgileri ile birlikte listelenmektedir.
 Admin kullanıcı, **İzin Onay Sayfası** üzerinden gelen izin taleplerini inceleyebilir.  
